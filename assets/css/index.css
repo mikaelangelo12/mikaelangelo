@@ -22,3 +22,7 @@ header{
     max-height: 1080px;
     height: 100%;
 }
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
